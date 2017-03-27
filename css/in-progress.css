@@ -1,0 +1,20 @@
+body {
+    font-family: "raleway", sans-serif;
+    font-size=14px;
+    background-color: #511C35;
+    color: #BFB5B2;
+}
+#basic-background {
+    height: 100vh;
+    width: 80%;
+    background-color:#37353F ;
+}
+.align-center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#parag01 {
+    padding-top: 30%;
+    font-size: 2rem;
+}
