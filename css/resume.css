@@ -154,11 +154,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 @media (max-width: 700px){
-  #about {
+    body, #inscript {
+    background-color: #adadad;
+    color: #d45500 !important;
+    }
+    #home {
     background-image:none;
-  }
+    }
     #inscripcion{
-    background-image: none;
+    background-image: none
     }
     #tabla{
     background-image: none;
@@ -174,7 +178,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-info {
-  color: #303358 !important;   
+  color: #5b609a !important;   
 }
 
 #inscript{
@@ -191,4 +195,8 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+
+#cuadroequipo {
+  border: 1px solid;
 }
